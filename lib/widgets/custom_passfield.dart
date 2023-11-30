@@ -28,18 +28,3 @@ class CustomPassField extends StatelessWidget {
     );
   }
 }
-// decoration: InputDecoration(
-// focusedBorder: OutlineInputBorder(
-// borderSide: BorderSide(color: Colors.red),
-// borderRadius: BorderRadius.circular(15)),
-// hintStyle: TextStyle(color: Colors.white),
-// fillColor: Colors.transparent,
-// filled: true,
-// prefixIcon: Icon(
-// icon,
-// color: Colors.white,
-// ),
-// contentPadding: EdgeInsets.only(left: 30, top: 40),
-// hintText: hitText,
-// border: OutlineInputBorder(borderRadius: BorderRadius.circular(15)),
-// ),
